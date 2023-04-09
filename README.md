@@ -12,7 +12,8 @@ Princeton algorithms course, by Robert Sedgewick and Kevin Wayne, you can check 
 
 ## Programming assignments
 
-### <a href="src/Assignment1-Hello, World">Assignment1-Hello, World</a>
+- ### <a href="src/Assignment1-Hello, World">Assignment1-Hello, World</a>
+
 
 ![logo](img/logo.png)
 
