@@ -14,12 +14,11 @@ Princeton algorithms course, by Robert Sedgewick and Kevin Wayne, you can check 
 
 ### 1.<a href="src/Assignment1-Hello, World">Assignment1-Hello, World</a>
 
-- ![logo](img/logo.png)
+![logo](img/logo.png)
+
+**Score**:![Submission](img/image-20230409214214859.png)
 
 
-- **Score**:![Submission](img/image-20230409214214859.png)
-
-  
 
 
 
